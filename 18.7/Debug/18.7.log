@@ -1,0 +1,6 @@
+﻿  18.7.cpp
+  MNOG.cpp
+C:\Users\админ\source\repos\18.7\MNOG.cpp(6,6): warning C4101: k: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\админ\source\repos\18.7\MNOG.cpp(22): warning C4715: Vector::give: значение возвращается не при всех путях выполнения
+  18.7.vcxproj -> C:\Users\админ\source\repos\18.7\Debug\18.7.exe

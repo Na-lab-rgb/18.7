@@ -1,0 +1,2 @@
+C:\Users\админ\source\repos\18.7\Debug\18.7.exe
+C:\Users\админ\source\repos\18.7\Debug\18.7.pdb
